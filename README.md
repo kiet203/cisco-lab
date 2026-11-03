@@ -19,4 +19,4 @@ cấu trúc mạng được xây dựng trên phần mềm cisco packet tracer.H
 - Đã kiểm thử NAT cho mô phỏng Internet
 - ACL chặn Vlan 10,20,30,các vlan khác được phép trên ISP
 ## **Bài học kinh nghiệm**
-Dự án này đã củng cố sự hiểu biết về OSPF, trunking, định tuyến VLAN trong các môi trường doanh nghiệp.
+Đồ án này đã củng cố sự hiểu biết về OSPF, trunking, định tuyến VLAN trong các môi trường doanh nghiệp.
